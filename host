@@ -1,1 +1,1 @@
-app ansible_ssh_host=52.15.160.32 ansible_ssh_user=ec2-user
+app ansible_ssh_host=3.133.161.230 ansible_ssh_user=ec2-user
